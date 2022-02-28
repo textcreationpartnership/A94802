@@ -1,0 +1,762 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For those that meet to worship at the steeplehouse, called John Evangelist, in London, or, any other in that nature upon whom the Scriptures are fulfilled, in evil intreating the servants of the Lord Iesus, whom he sends to deliver his message amongst you. Or for any other that are condemned for sin, and have thirstings after righteousness ...</title>
+            <author>R. T. (Rebecca Travers), 1609-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94802</idno>
+            <idno type="STC">Wing T2059</idno>
+            <idno type="STC">ESTC R185428</idno>
+            <idno type="EEBO-CITATION">47683503</idno>
+            <idno type="OCLC">ocm 47683503</idno>
+            <idno type="VID">172962</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94802)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172962)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2659:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For those that meet to worship at the steeplehouse, called John Evangelist, in London, or, any other in that nature upon whom the Scriptures are fulfilled, in evil intreating the servants of the Lord Iesus, whom he sends to deliver his message amongst you. Or for any other that are condemned for sin, and have thirstings after righteousness ...</title>
+                  <author>R. T. (Rebecca Travers), 1609-1688.</author>
+               </titleStmt>
+               <extent>[2], 61 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold at the black spread Eagle near the west end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Rebecca Travers by Wing (2nd ed.).</note>
+                  <note>Marginal notes.</note>
+                  <note>Error in paging: p. 39 numbered 49.</note>
+                  <note>Imperfect: stained and tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Quaker authors.</term>
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172962:1" rendition="simple:additions"/>
+            <p>FOR <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſe that meet to worſhip at the Steeplehouſe, called <hi>John Evangelist,</hi> IN LONDON, OR, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny other in that nature upon whom <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Scriptures are fulfilled, in evil intreat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> by the ſervants of the <hi>Lord Ieſus,</hi> whom he lends to deliver his Meſsage amongſt you.</p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for any other that are condemned for ſin, and have thirſtings after righteouſ<g ref="char:EOLhyphen"/>neſs, that from ſin &amp; tranſgreſsion they may be turned to the righteouſneſs that is perfect and eternal, without vvhich there is no ſure ſalvation.</p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Word of truth to rebuke the de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rer, and him that pleads for him a<g ref="char:EOLhyphen"/>gainſt the reſtoration of the Creation to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he liberty of God.</p>
+            <q>
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your hearts condemn you, God is greater and knoweth all things,</q>
+            <bibl>1 Iohn 3. 20.</bibl>
+            <p>
+               <hi>Rebecca Travers.</hi>
+            </p>
+            <p>LONDON, <hi>Printed, and are to be ſold at the black ſpread Eagle near the weſt end of Pauls,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172962:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:172962:3"/>
+            <pb n="1" facs="tcp:172962:3"/>
+            <head>A Word of Reproof for thoſe that meet at the Steeplehouſe called <hi>John Evangeliſt,</hi> in London.</head>
+            <p>O You fooliſh people and unwiſe! How long will you love your folly? How long will you reſiſt our Maker? Are you ſtronger then he? <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o is as truly ſtriving with you, as ever<note place="margin">
+                  <hi>Gen.</hi> 6. 12.</note> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was with that generation in <hi>Noahs</hi> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yes, who not receiving the warning the one Preacher of Righteouſneſs, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> overwhelmed in their wickedneſs, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> having ſafety but they who were the Ark. And I, and thouſands, yea <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thouſands, praiſes to the Lord, who <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>come to the ends of the world, do <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow the world in which you live is <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> unto deſtruction, and are moved him that made the world, to come
+<pb n="2" facs="tcp:172962:4"/>
+into your meeting-places, to declare unto you what muſt ſhortly come to paſs, and to ſhew you the blindneſs of your Teachers, with their blaſphemous<note place="margin">2 <hi>Tim 3. 6, 7. 8. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ph.</hi> 2. 2.</note> and idolatrous Doctrines, whereby they deceive the ſimple, lead captive ſilly women, which are always learning, but never come to the knowledge of the truth which makes free from the bonds of Death and Satan, (who hath captiva<g ref="char:EOLhyphen"/>ted your minds, and hath blinded the eye that gives the knowledge of God) which rules in all you the children of diſobedience, being the god of the world, a lyar and a murderer from the beginning; and ſo as acted by him, his fruits ye bring forth, even in your moſt holy Aſſemblies, Teacher and people, as in your Steeplehouſe called <hi>John Evan<g ref="char:EOLhyphen"/>geliſts,</hi> there the Teacher exhorted the people to read and ſtudy the Scripture, for they were light and life, (ſpeaking of the written Letter) bringing a car<g ref="char:EOLhyphen"/>nal compariſon to maintain his idola<g ref="char:EOLhyphen"/>trous Doctrine, ſaying, <hi>A written piece of Paper to a ſore, would do no good; but a little written Scripture to a wounded ſoul, was of great force; and tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that was:
+<pb n="3" facs="tcp:172962:4"/>
+which quickened David, and was a light <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a lanthorn unto his feet.</hi> And I who <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as brought thither of the living God, whom I ſerve, in obedience to him, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the Seed's ſake, was moved to ask him a queſtion (when he had ended) in moderarion and fear, telling him it was not to diſturb, but for edification, and not ſpeaking any other words to my knowledge, then theſe, <hi>Doth the Scrip<g ref="char:EOLhyphen"/>ture more plentifully declare of any one</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 45. 16</note> 
+               <hi>thing, then that for Idolatry God brings wrath and vengeance upon Nations, Peo<g ref="char:EOLhyphen"/>ples,</hi>
+               <note place="margin">
+                  <hi>Zech.</hi> 13 2</note> 
+               <hi>and Perſons?</hi> But he haſting away <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s hirelings uſe to do, his people fell on me as ſo many devouring Wolfes, rail<g ref="char:EOLhyphen"/>ing, tearing, thruſting, haling, and puſh<g ref="char:EOLhyphen"/>ing me down ſeveral times, yet a hair of<note place="margin">
+                  <hi>Ez<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k.</hi> 16. 38.</note> my head they could not hurt; but the murderer was ſtrong, and no hand to help the innocent; nor tongue to plead for the harmleſs, ſeen or heard in your Congregation, though ſome were nea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> related to me in the outward, ſtood by, &amp; ſaid they thought I was a made woman, in which I can rejoice, being no other<note place="margin">
+                  <hi>Acts 26. 24. Ioh.</hi> 15. 20</note> then what was done, and ſaid unto my Lord, The ſervant is not greater then
+<pb n="4" facs="tcp:172962:5"/>
+his Maſter, and him I ſerve, and he is my reward, by whom <hi>David</hi> was quick<g ref="char:EOLhyphen"/>ned, by whom <hi>Abraham, Iſaac,</hi> and <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> were ſaved, before any of that was written vvhich you call the Scriptures, &amp; the ſame quickning Word I witneſs, who was once dead as well as you, in<note place="margin">
+                  <hi>Epb.</hi> 2. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> ſins and treſpaſſes; but by the obedience of the ſpirit hath the ſoul been ſancti<g ref="char:EOLhyphen"/>fied, and I made a witneſs of the reſur<g ref="char:EOLhyphen"/>rection of Jeſus, and do (as called of God thereto) bear my teſtimony, that he who was dead is alive, and his Name<note place="margin">
+                  <hi>Rev.</hi> 10. 9, 13.</note> is called the Word of God, who hath been caught up to God; and ſhe that brought him forth, hath been hid in<note place="margin">
+                  <hi>Rev.</hi> 12 5, 6.</note> the Wilderneſs from the Dragon that hath made war with the remnant of her<note place="margin">
+                  <hi>Rev.</hi> 17.1, 15.</note> Seed, and the Beaſt hath prevailed, and none hath been made able for ages, to make war with him, nor the Whore, who ſits in the Waters; Mark, the Wa<g ref="char:EOLhyphen"/>ters are people nations, and tougues, on which the Beaſt that carries the Whore, doth ſit, who hath made drunk with her fornications, the Kings of the Earth, and is drunk with the cup of a<g ref="char:EOLhyphen"/>bominations; and the hour of her
+<pb n="5" facs="tcp:172962:5"/>
+righteous judgement is come, &amp; with her<note place="margin">
+                  <hi>Rev</hi> 20. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> ſhall be tormented the beaſt &amp; the ſalfe prophet, and all that love, &amp; make a lye, for evermore; and bleſſed are they, and they only, that know theſe things which ſhall ſhortly come to paſs; but they that read Scriptures, and have not heard the Word which gave forth the<note place="margin">
+                  <hi>Iohn</hi> 5. 7.</note> Scriptures to them, the Scripture is (as it was to them at <hi>Jeruſalem,</hi> that there crucified the Lord of life) a parable; and as it was ſaid to them, it may to you, <hi>Search the Scriptures, for in them you think to have eternal life, and they tectifie of me, but you will not come to me that you may have life,</hi> ſaith Chriſt Jeſus. And ſo they who read the Scriptures, killed him who gave them forth, and came to fulfil the Scriptures, even the holy One, and the Juſt, whom you now ſlay in the ſtreet of the great City, ſpiritually cal<g ref="char:EOLhyphen"/>led<note place="margin">
+                  <hi>Rev.</hi> 11. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Aegypt;</hi> but the Witneſs ſhall ariſe whom you are yet making merry over, and as a thief in the night ſhall he come upon you, and then ſhall you know that this Viſitation of mine (though now deſpiſed) ſhall be upon your heads, &amp; the Lord ſhall be clear;
+<pb n="6" facs="tcp:172962:6"/>
+and a good ſavour am I unto him, as well in them that periſh, as in them that are ſaved, who am honoured of him whom I honour, and know that in the doing of his Will there is great re<g ref="char:EOLhyphen"/>ward; and though of you hated, and ſcorned, and deſpitefully uſed, yet bear I the reproach, and deſpiſe the ſhame, following the Captain and Author of my ſalvation, who was perfected<note place="margin">
+                  <hi>Heb. 2. 10, 11. 2 Tim. 2. 12. Matth.</hi> 10. 32.</note> thtough the ſuffering; and none ſhall reign with him but they that ſuffer with him; nor will he confeſs any be<g ref="char:EOLhyphen"/>fore his Father, but they which confelſ him before men; and all that have, or do ſo, have been hated of men, as he<note place="margin">
+                  <hi>Ioh.</hi> 7. 15, 18.</note> declard at Jeruſalem, and is fulfilled at London, as well as in other places, <hi>They ſhall bare you for my Name ſake, &amp; ſpeak all manner of evil of you, and they ſhall think they do God ſervice.</hi> So blind are all men who from the light are er<g ref="char:EOLhyphen"/>red, in which God dwells the Creator of all things, who commanded light to<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 4. 6.</note> ſhine out of darkneſs, and hath ſhined into our hearts, (who by the light are ſubject) to give us the knowledge of
+<pb n="7" facs="tcp:172962:6"/>
+himſelf in the face of Jeſus Chriſt, and<note place="margin">
+                  <hi>Tit.</hi> 2: 11</note> being made a partaker of this Grace which is free, and hath appeared to all, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear my teſtimony as the truth is in Je<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, that if you obey it not, you are out of the Covenant, ſo out of the bleſsing, and under the curſe, and know not the Word of God, though it be near unto you all, and many hath been thereby quickened to God; and it is that which made all things, and by it are all things upheld; for in it is life,<note place="margin">
+                  <hi>Ioh.</hi> 1. 4, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and the life is the true light of men, and this is the true light which enlightens every man which comes into the world (as it is written) &amp; <hi>John</hi> bare teſtimony of it without your meanings, declaring what he had ſeen, felt, and handled of<note place="margin">
+                  <hi>Iohn</hi> 1: 12, 13</note> the Word of life; that to as many as believed in him, he gave power to be<g ref="char:EOLhyphen"/>come the ſons of God, not of blood, nor of the will of man, but of the will of God; of which birth (which onely muſt inherit the eternal Kingdom) are all you ignorant, who preach and pray, and hear, and act in your own wills, though your profeſſion be high as mine once was, you are not yet come to the
+<pb n="8" facs="tcp:172962:7"/>
+firſt principle, of repentance from dead works, which all that are in that, have not been quickned by the eternal word, which Word abides for ever, and is<note place="margin">
+                  <hi>Heb.</hi> 4. 12</note> quick and powerful as a two-edged ſword, dividing aſunder, and making manifeſt the ſecret thoughts and inten<g ref="char:EOLhyphen"/>tions of the heart; and this is not ink and paper, or words, which the worſt of men, or the Devil may read or talk of; but it is ſpirit, life, and power, kil<g ref="char:EOLhyphen"/>ling and making alive; as a fire in the beſome, did and do the Prophets wit<g ref="char:EOLhyphen"/>neſs it; as a Sword, and a Hammer, to<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. 23: 29</note> cut off, and break down all the uncir<g ref="char:EOLhyphen"/>cumciſed of ears and heart. This is it that <hi>Moſes</hi> (who was faithful) called unto; this was the Word of faith which <hi>Paul</hi> preached, who was called of God, and not of men; and all ſo called, bear the teſtimony to it, as he did, that none need to ſay, Who ſhall aſcend &amp; fetch<note place="margin">
+                  <hi>Rom.</hi> 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 6, 7, 8</note> Chriſt down? Or deſcend, and fetch him up; for he is near thee, in the heart, and in the mouth; and this is the Word which we preach, ſaith <hi>Paul,</hi> who was ſent of God. Now they that tell you the Letter without, is the Word, and
+<pb n="9" facs="tcp:172962:7"/>
+the Goſpel, they preach another Go<g ref="char:EOLhyphen"/>ſpel then the Apoſtles did.</p>
+            <p>O that you had ears to hear, and hearts to underſtand the things that belong unto your Peace, who have been, and are profeſsing godlineſs for many years, and yet ſtand where you did, in the cuſtoms, in the faſhions, in the love of the preſent World, and call the Scriptures your rule; (mind you Scripture-readers;) is it not written, in the World God is not known; and who loveth the World, the love of God<note place="margin">
+                  <hi>Iames</hi> 4: 4</note> is not in him; the love of the Worldis enmity to God; and is it not the words of him that cannot lye, The world loves its own, and that his are are not of this world, as he was not of<note place="margin">
+                  <hi>Ioh.</hi> 15. 19</note> this vvorld, therefore the vvorld hates them. So profeſſors of Scriptures, ſee vvhat is vvritten in Scriptures; What's the true Religion? Is it not thus vvrit<g ref="char:EOLhyphen"/>ten, To viſit the fatherleſs, and keep<note place="margin">
+                  <hi>Iames</hi> 1. 27</note> unſpotted from the vvorld? are you this people vvho are in the vvays, vvor<g ref="char:EOLhyphen"/>ſhips; and faſhions of the vvorld, and exceſs of vanity, and pride, and fulneſs, and vvhole families of your ovvn fleſh,
+<pb n="10" facs="tcp:172962:8"/>
+and in your own ways; ready to periſh for want of food and rayment; ſure you are not they which viſits the fa<g ref="char:EOLhyphen"/>therleſs; ſure you are not the Iſrael in which there was no beggar; nor you have not the Storehouſe in which all the tythes were put to feed the Widows and the Fatherleſs; and ſure you are not in the narrow way in which few walk, for the way that you walk, many there is in, and they walk at eaſe; I feel what I ſpeak, who walked there many years, and as concerning the Law written in ſtone, blameleſs as any, and had a zeal though not according to knowledge;<note place="margin">
+                  <hi>Rom.</hi> 7. 9</note> and when the Commandment came, the new Covenant, ſin revived, and I dyed;<note place="margin">1 <hi>Cor.</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and only by the power of the Croſs, (which in the Wiſdom of the World<note place="margin">
+                  <hi>Gal</hi> 6: 14<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> was, and is eſteemed fooliſhneſs) do I live in the life that never ſhal have end; and in this only do I rejoyce, whereby I am crucified to the World, and the World to me; and this to the World is a myſterie, who by Wiſdom cannot know the things of God which are ſpiritual<g ref="char:EOLhyphen"/>ly diſcerned, and therefore are in vain imaginations, of which God did, and
+<pb n="11" facs="tcp:172962:8"/>
+doth complain, bringing out likenneſſes<note place="margin">Con. 6. 5, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> of it as the Papiſts, in Wood, Stone, or Gold, others calling the Croſs that which you cannot flye from, not know<g ref="char:EOLhyphen"/>ing the Croſs which is daylie to be taken up; but we who of him have learned, who ſaith, <hi>Take up your croſs and follow</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 9. 23</note> 
+               <hi>me;</hi> know it to be <hi>the power of God unto ſalvation;</hi> and by it hath the Devil been overcome, and before it muſt all the powers of darkneſs flye; and this is, and hath been the defence of the righteous Seed in all generations, and the Scrip<g ref="char:EOLhyphen"/>tures declare of it, and ſhall bear a te<g ref="char:EOLhyphen"/>ſtimony for me, and all the children of light, againſt all you that have the words of the Scriptures, and yet are found ha<g ref="char:EOLhyphen"/>ters of the light which gave forth Scri<g ref="char:EOLhyphen"/>ptures; and if ever that eye be opened in any of you that the god of this World hath blinded, you ſhall confeſs that, that wherein you have truſted ſhall witneſs againſt you; and however your Teachers which are blind, may lead the blind, till both fall into the ditch; yet is there a ſeed among you that the Lord will gather unto us, and therefore doth his long ſuffering lead unto repentance;
+<pb n="12" facs="tcp:172962:9"/>
+but many ſhall be cut off in their iniqui<g ref="char:EOLhyphen"/>ties,<note place="margin">
+                  <hi>Iſa.</hi> 65. 12</note> to whom he hath called, and they would not hear; and they ſhall cry, and he will not hear, but laugh at your ca<g ref="char:EOLhyphen"/>lamitie, when deſtruction ſhall come as a ſwift Whirlwind, and with the<note place="margin">
+                  <hi>Prov.</hi> 1: 28</note> beaſom of the Lord ſhall all the Workers of iniquity be ſwept away, and his fierce Wrath ſhall conſume them which have worſhipped Images, and have bowed down to the inventions of men, and inſtead of the truth delivered to the Saints, (for which we earneſtly contend) have ſet up the traditions of<note place="margin">
+                  <hi>Matt:</hi> 15: 3</note> men. And here ſtands your Worſhip with the whole World, who are ene<g ref="char:EOLhyphen"/>mies to the croſs, which in the light on<g ref="char:EOLhyphen"/>ly is ſeen; and ſo in the darkneſs hath all error and falſe doctrine been broached, and invented, and brought forth, and the imagination hath, and doth bring forth the image, and both ſhall be conſumed; and therefore I who know aſſuredly that he will come, and will not<note place="margin">
+                  <hi>ſal:</hi> 11: 6</note> tarry, and his reward is with vvith him, who reigns ſnares, fire and brimſtone upon the Wicked every day, the idolaters and adulterous generation, who have forgot
+<pb n="13" facs="tcp:172962:9"/>
+God, dayes without number, and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> committing Whoredom with the Ima<g ref="char:EOLhyphen"/>ges of men; yea thou <hi>England,</hi> yea thou <hi>London,</hi> (that hath talked ſo much a<g ref="char:EOLhyphen"/>gainſt idolatry, and fought that Images might be pulled down) art found in the great abominations, and filthineſs of ſpiritual Whoredoms, even in the ſight of the Son, the day being dawned, hath ſhewn the filthineſs of thy night-works, which thou ceaſeſt not from, though the ligh hath diſcovered them, but thinkeſt the Lord is like unto thee, who in the times of darkneſs winked, but now will render a due recompence for all your<note place="margin">
+                  <hi>pſal.</hi> 50: 3</note> Fornications; a horrible tempeſt goes before him, and in the Clouds he comes, and the darkneſs hides him from you vvho hate the light.</p>
+            <p>O a vvo, a vvo unto all that diſcerns<note place="margin">Heb. 10. 37</note> not the ſigns of his coming, for upon whom he falls, he grinds to povvder, and the adulterous eye cannot ſee him, vvhich hath run a luſting after many lovers, yet pays her vows, offers her<note place="margin">
+                  <hi>Prov.</hi> 7. 14 27</note> offerings, and wipes her mouth, and ſaith ſhe hath done no evil, but her ſteps lead to hell.</p>
+            <p>
+               <pb n="14" facs="tcp:172962:10"/>O how abominable are the prayers of the wicked in the ears of the Al<g ref="char:EOLhyphen"/>mighsy! and the ſacrifices of the wick<g ref="char:EOLhyphen"/>ed have an ill ſavour in the noſtrills of the holy One; unclean prieſt, and un<g ref="char:EOLhyphen"/>clean people, whoſe offerings are fleſh, and not ſpirit; dead, and not living; who have robbed the Lord, and have given his glory to that which you have framed in your imaginations; here is the heathen for whom the devouring plague is prepared, who hath turned the inviſi<g ref="char:EOLhyphen"/>ble God into the ſimilitude or likeneſs<note place="margin">
+                  <hi>Rom.</hi> 1. 23</note> of viſible things; and for this doth the fierce wrath of the Lord burn as an O<g ref="char:EOLhyphen"/>ven, and the wicked ſhall be as ſtubble therein; and with the Candle of the Lord ſhall all you be ſearched who have ſet up any thing in my ſtead, ſaith the Lord, who am the Life, whom am the Light, and there is no other God,<note place="margin">
+                  <hi>Iohn</hi> 1. 4. <hi>Iohn</hi> 8. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Iohn</hi> 14: 6:</note> though you are among the many gods, who ſet Ink and Paper in his place, cal<g ref="char:EOLhyphen"/>ling it by his Name, which is eternal, ſaying the Letter is the word, and the light, and the life. And this all you vvho remain in the idolatrous and a<g ref="char:EOLhyphen"/>dulterous nature, alienated from God,
+<pb n="15" facs="tcp:172962:10"/>
+ſtrangers to the Covenant of light and life, led by the Prince of the ai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, turn the moſt excellent of all that you poſſeſs, into Wickedneſs; for it is impoſſible that an evil tree ſhould<note place="margin">
+                  <hi>Matt.</hi> 7. 18</note> bring forth good fruit, as it is written; for all who have not had the eye o<g ref="char:EOLhyphen"/>pened (which the god of this World hath blinded) by the power of him that is the light and the life, as ſlaves are ſub ected to the power of Satan, ſerve him with the Scriptures, or whatſoever they have, though being in the dark they know it not, no more then the Prieſts and people at Jeruſa<g ref="char:EOLhyphen"/>lem, which if they had known, would not have put to death the Lord of Life.</p>
+            <p>And ſo mind all you Scripture-rea<g ref="char:EOLhyphen"/>ders and profeſſors, who are ready to murder for your Religion; Was not they at Jeruſalem your type? who when he came in the fulneſs of time (of whom the Scriptures propheſied) to fulfil the Scriptures, and put an end to all their Worſhips, which though they were given by the com<g ref="char:EOLhyphen"/>mand of God, yet having loſt the
+<pb n="16" facs="tcp:172962:11"/>
+ſpirit and life by which they were ſan<g ref="char:EOLhyphen"/>ctified, are become corrupt and abo<g ref="char:EOLhyphen"/>minable, and ripe for deſtruction; yet he that was ſent of God to put an end to the old, and to make all things new, not coming according to their expectation, who had framed an ima<g ref="char:EOLhyphen"/>gination from their own underſtand<g ref="char:EOLhyphen"/>ing of the Scripture, as now you do, to come with their obſervations; and ſo though they read the Scriptures dailie, they could not receive him nor his Doctrine; for ſaith he, <hi>The vail which Moſes wore, is on your faces to this day;</hi> When you read Scriptures, is the Vail yet rent off your faces? Friends and Neighbours, and Relations, if it were, you would ſee him whom you have pierced, who are yet eating and drinking your own damnation, not diſcerning the bodie of my Lord, who while I was a ſinner, died for me. And ſo friends in faithfulneſs, &amp; in the love that is unſeigned, with the Autho<g ref="char:EOLhyphen"/>ritie which is from above, by which I am armed not to fear what any can do unto me, and have, and do over<g ref="char:EOLhyphen"/>come the evil with the good-wil unto
+<pb n="17" facs="tcp:172962:11"/>
+man, in which I can, &amp; do beſeech you to be reconciled unto God for Chriſts ſake, which yet you are ſtrangers to: Wil you ſet any thing in his place who<note place="margin">
+                  <hi>Ioh.</hi> 6. 44</note> is onelie come to by the drawings of the father; and that is the drawings of the father, which draws out of iniqui<g ref="char:EOLhyphen"/>tie, and from tranſgreſſion; and this being attended to, you may learn to know what called <hi>Abraham,</hi> which<note place="margin">
+                  <hi>Heb.</hi> 11. 8</note> obeying and following, brought him<note place="margin">
+                  <hi>Ioh.</hi> 8. 56<g ref="char:punc">▪</g>
+               </note> to ſee Chriſts daie, though there was then no Letter written of that you call the Scripture; and none ever did, or ſhall give forth, or come to a right underſtanding of the Scriptures, but as they obey and follow that in them which condemns ſin, and leads out of it, to him that hath, and can onelie open the eies of all born blind; and this I declare as I have learned of the Father in the light, That though I had been a reader of the Scriptures (as without) from a child of ſix years old, as conſtantlie as moſt, yet when by the power of the eternal Goſpel was turned from darkneſs to light, I ſaw things unutterable, and the Scri<g ref="char:EOLunhyphen"/>ptures
+<pb n="18" facs="tcp:172962:12"/>
+that in my dark mind I had ſo often turned, was now another thing in my eye, and plain without a mean<g ref="char:EOLhyphen"/>ing, as I came to learn of that ſpirit<note place="margin">2 <hi>Pet.</hi> 1, 20 21</note> which gave them forth; for as it is written, <hi>No Scripture is of a private in<g ref="char:EOLhyphen"/>terpretation;</hi> but as holie men moved of the Holy Ghoſt, writ them forth, ſo onelie thoſe holie ones who have been, or are moved of the ſame ſpirit, which are the children of the King<g ref="char:EOLhyphen"/>dom, ſee the parable, and interpret the Scripture, which all that are un<g ref="char:EOLhyphen"/>learned of the Spirit, interpret to their own deſtruction.</p>
+            <p>And ſo you that know not the mo<g ref="char:EOLhyphen"/>ving of the ſpirit in which the Scrip<g ref="char:EOLhyphen"/>tures are writ, have given meanings, and ſo in this long night of Apoſtacy have brought forch errors and falſe Doctrines, and filled the World with Sects &amp; Opinions, the ſimplicitie of the Goſpel being betrayed by the crafty ſubtiltie of men; but we who are come<note place="margin">
+                  <hi>Ephes<g ref="char:punc">▪</g> 4<g ref="char:punc">▪</g> 4 <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> 29 14 15</note> in the light, to ſee the fulfilling of the Scriptures, know that the wiſdom of the wiſe is turned into fooliſhneſs, and the counſel of the prudent is brought
+<pb n="19" facs="tcp:172962:12"/>
+to nought, the Prophet is become a fool, and the diviners ſhall run mad,<note place="margin">
+                  <hi>Hoſ.</hi> 9. 7.</note> and he that hides from the wiſe, re<g ref="char:EOLhyphen"/>veals to babes and ſucklings, and it ſeems good unto him; though the hea<g ref="char:EOLhyphen"/>then<note place="margin">
+                  <hi>Luke</hi> 10. 2<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> then rage, and the people imagine vain thugs, the Lord is riſen to reco<g ref="char:EOLhyphen"/>ver his own inheritance, that hath<note place="margin">
+                  <hi>Pſalms 2. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Ezek.</hi> 34. 2. 3.</note> long been laid waiſt by the deſtroyer, and the devouring ſhepherds have not fed the ſheep, but eat the ſheep, who have run and were never ſent, there<g ref="char:EOLhyphen"/>fore have not the people been profited, and the miſtery of iniquity that be<g ref="char:EOLhyphen"/>gan in the Apoſtles dayes, hath ſpread<note place="margin">
+                  <hi>Ier. 23. 21. 2 Theſ.</hi> 2. 7.</note> again, to the filling of the world with thick darkneſs, as it was foretold by Chriſt and the Apoſtles, that devour<g ref="char:EOLhyphen"/>ing Wolves ſhould come and make<note place="margin">
+                  <hi>Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 7. 15.</note> havock of the flock, and that in ſheeps cloathing, and theſe were to prevail all the time and times that the world wondred after the beaſt, though your teachers would mak you believe<note place="margin">
+                  <hi>Rev.</hi> 13. 3.</note> the falſe Prophets are come but now, that they might hide themſelves; but O that you did ſee and believe the Scriptures! then would you know who
+<pb n="20" facs="tcp:172962:13"/>
+were the ravening Wolves, we or they whom you call your miniſters; ſee which is the Wolfe that devours and deſtroyes, he that ſends for his gain<note place="margin">
+                  <hi>Iſa.</hi> 56. 11.</note> from his quarters, and if he has it not, raiſes war, and ſues, and caſts in priſon, and if any ſpeak in his meet<g ref="char:EOLhyphen"/>ing place, or asks him a queſtion, he cauſes or ſuffers his people to beat them, or hale them, or ſtone them, or whip them, and will not ſpeak him<g ref="char:EOLhyphen"/>ſelf but for gifts and rewards; Now are theſe the Wolves, or they that bear all theſe things in patience, going up and down freely, giving as freely as they have received, try whether of theſe be the miniſters of Chriſt, by that you call your rule; and truly people God will not be mocked, and his eye beholds the deceitful worker every where; and the Scriptures are ours up<g ref="char:EOLhyphen"/>on whom the ends of the world are come, and for us were they written, and ſhall bear witneſs for us againſt all the Idolatrous generation, that ſets them in the place of God, &amp; to me are they precious, who am come to the comfort of them, and let the wiſeſt of
+<pb n="21" facs="tcp:172962:13"/>
+your teachers if he can without a mean<g ref="char:EOLhyphen"/>ing, bring a written Scripture to prove that they any where, are called the<note place="margin">
+                  <hi>Iohn</hi> 1. 4, 6<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> word, the foundation, the light, or the life, &amp; I ſhall give ſome of the ma<g ref="char:EOLhyphen"/>ny written in the Scriptures, to ſhew that he who is the light, is the life, and<note place="margin">
+                  <hi>Iohn</hi> 8. 12.</note> the way, and the ordinance, and the name<note place="margin">
+                  <hi>ohn</hi> 14. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> by which only ſalvation is; and are not thoſe then falſe Prophets and de<g ref="char:EOLhyphen"/>ceivers,<note place="margin">
+                  <hi>Iohn</hi> 1. 1:</note> which would make you from the Scriptures believe that which is not,<note place="margin">
+                  <hi>Iohn 1: 14: Phil.</hi> 29</note> and hide from you that which is? are not theſe the Antichriſt which inſtead<note place="margin">
+                  <hi>1 Cor:</hi> 3. 11</note> of Chriſt, are ſetting up that which is not he in his ſtead? O ſhall not the<note place="margin">
+                  <hi>Acts 10. 42 Col:</hi> 2: 14</note> plagues threatned in that book come upon them, who are known to add and diminiſh, and ſurely as the Sorcer<g ref="char:EOLhyphen"/>ers of <hi>Egypt</hi> are they that harden the<note place="margin">
+                  <hi>Dut. 2, 4 Rev.</hi> 22, 18, 19<g ref="char:punc">▪</g>
+               </note> heart in making likeneſſes; and truly friends theſe things are not written to you, as to have your help or aid to defend or aſſiſt us, as your parſons uſe to pray and cry for, for we are the people that have no helper on the earth, yet beleiving, know we ſhall be<note place="margin">
+                  <hi>Micah</hi> 4 1</note>
+               <pb n="22" facs="tcp:172962:14"/>
+the mountain ſet upon the top of eve<g ref="char:EOLhyphen"/>ry mountain, and while you are ſtri<g ref="char:EOLhyphen"/>ving againſt the little ſtone cut out of the mountains without hands, it<note place="margin">
+                  <hi>Dan</hi> 2. 34</note> growes and you ſee it not, and ſhall be the praiſe of the whole earth, and the devourers and the deſtroyer and all the ungodly ſhal be cruſht under it, then ſhall the earth be filled with righ<g ref="char:EOLhyphen"/>teouſneſs; and of the increaſe of this kingdom there ſhall be no end, which is come and coming, and not by power &amp; might, but by my ſpirit ſhall all the oppoſers of this kingdom be brought down ſaith the Lord, and the glory of it is the ſon, and all the ſubjects are cloathed with holineſs, all being Prieſts and Kings to God, and the glo<g ref="char:EOLhyphen"/>ry of it is now ſeen coming down from heaven by them that the world hates, who are following the Lamb through many tribulations into it, and the Dogs, and the Whoremungers, and<note place="margin">
+                  <hi>Rev.</hi> 14. 4</note> the makers and lovers of lyes; (Mark this) falſe teachers &amp; hearers that ſpeak the things you know not, with the<note place="margin">
+                  <hi>Rev.</hi> 22. 15</note> fearfull and unbeleiving muſt you be ſhut out (Mark you this) that can<g ref="char:EOLhyphen"/>not
+<pb n="23" facs="tcp:172962:14"/>
+beleive what herein is declared, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t to you it ſeems ſtrange, that God ſhould appear to his people as of old, and give us the ſame ſpirit as they had that gave forth Scriptures, ſaying to the hardning of your own hearts, <hi>Mi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cles are ceaſed;</hi> why to us it is not marvelous to receive what we have waited for? the ſpirit of truth to lead into all truth, and the Scriptures de<g ref="char:EOLhyphen"/>clare of him, and he is the ſame and changeth not, infallible and almighty, who is given to convince the world of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in, and till you come to believe in<note place="margin">
+                  <hi>Iohn</hi> 16. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 92</note> that which convinces of ſin, you can neither underſtand nor beleive the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>criptures nor me, nay though one riſe from the dead; and I who know how precious your ſouls are, with thouſands more, have been made willing in this the day of the Lords power, to go forth with our lives in our hands, denying <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll that has been dear to us, that you might be brought from under the pow<g ref="char:EOLhyphen"/>er of the Prince of darkneſs, to the o<g ref="char:EOLhyphen"/>bedience of the light, in which only is fire ſalvation, no other name given under heaven whereby any can be ſa<g ref="char:EOLhyphen"/>ved;
+<pb n="24" facs="tcp:172962:15"/>
+               <hi>I am the light</hi> ſaith Chriſt Jeſus,<note place="margin">
+                  <hi>Iohn.</hi> 8, 12,</note> 
+               <hi>and if any come to me be ſhall not abiae in darkneſs;</hi> and ſo all people who hate the light, and are ſpeaking againſt it, and giving it names, as naturall, and ſuch like, are you not ſpeaking againſt the Saviour, who is the light, and the way, and the truth as the Scriptures declare. O that for your ſouls ſake you would ceaſe from hearing and ſpeaking lyes! and come to the light which is the true light, and then you might ſee what God requiers!</p>
+            <p>Truth in the inward parts, which<note place="margin">
+                  <hi>Pſal.</hi> 51. 6.</note> though it may be you have red oft, yet are not come to it while you deſpiſe the light, and have not (as I know none has out of the light) found that God requiers; and what ſtead will all that ſtand you in, which he requireth not? and ſo all men and women come to the light: It is the words of Chriſt Jeſus, <hi>He that walketh in the light ſtumb<g ref="char:EOLhyphen"/>leth</hi>
+               <note place="margin">
+                  <hi>Iohn<g ref="char:punc">▪</g> i.</hi> 9, 10</note> 
+               <hi>not,</hi> and all from it have and do ſtumble and fall; and therefore as you love your ſouls and prize your everlaſt<g ref="char:EOLhyphen"/>ing welfare, give heed to the moſt ſure word of Propheſy, then that voice
+<pb n="25" facs="tcp:172962:15"/>
+which come from heaven, your teach<g ref="char:EOLhyphen"/>ers tell you that's the Scripture, but thus it is written; <hi>You do well to take <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eed to the more ſure word of Propheſy, as</hi>
+               <note place="margin">2 <hi>Pet.</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 19</note> 
+               <hi>to a light that ſhines in a dark place, till the day dawn and the day ſtar ar ſe in your bearts;</hi> &amp; as to this you come, the ſubtle<g ref="char:EOLhyphen"/>ty of the deceiver, which hath beguiled man and led into the tranſgreſſion; may be manifeſted, and you ſhall come to ſee what thou wert, and what thou art, and what thou muſt be be<g ref="char:EOLhyphen"/>fore thou come to inherit the purcha<g ref="char:EOLhyphen"/>ſed inheritance; for thou wert made in glory, O man and woman, in the Image of God; but by tranſgreſſion art be<g ref="char:EOLhyphen"/>come as a brute beaſt that periſhes, and knoweſt nothing but what thou know<g ref="char:EOLhyphen"/>eſt naturally, as from that wiſdom which is ſenſual and devliliſh, for here ſits the Devil in the ſenſual, fulfilling the luſts, ſlaying the ſoul, and yet ſeeming religious; here's <hi>Cain's</hi> offering, <hi>Eſaus</hi> tears, but not the bleſſing, for that's to the ſeed for ever and ever, and in the<note place="margin">
+                  <hi>Gel.</hi> 3. 16<g ref="char:punc">▪</g>
+               </note> light only muſt thou come to know the promiſed ſeed, which is to break the Ser<g ref="char:EOLhyphen"/>pents<note place="margin">
+                  <hi>Gen.</hi> 3. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </note>
+               <pb n="26" facs="tcp:172962:16"/>
+head: So to that of God in eve<g ref="char:EOLhyphen"/>ry man I ſpeak, who has not left him<g ref="char:EOLhyphen"/>ſelf without a witneſs in the worſt of you, that you harken diligently to that which hath at ſomtimes ſhewed your iniquities, and called you out of it, for it is better to harken then to offer the ſacrifices of fools, and till you hear him that called <hi>Abraham,</hi> how far are you<note place="margin">
+                  <hi>Sam. 15. 22 H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b.</hi> 11. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> from the election that cannot be decei<g ref="char:EOLhyphen"/>ved, in the deceit, in the error, and yet talking of others to be Hereticks, and deceivers, but we know who holds the truth in unrighteouſneſs, who neither hear nor obey the call of God: Mind<note place="margin">
+                  <hi>Titus</hi> 2. 11. 12.</note> people, who are talkers ſo much of free grace, what have you learned of it? are you ſober, that hail, and pluck, and fight, and laugh, and ſcoff, even in your moſt holy aſſemblies? Have you learn<g ref="char:EOLhyphen"/>ed to deny all ungodlineſs and wordly luſts, who are in the luſt of the fleſh, the luſt of the eye, and the pride of life? Do you walkſoberly and righteouſly in this preſent world? Are your women the Daughters of <hi>Sarah,</hi> that wear not gold, nor ſilver, nor pearl, not bro<g ref="char:EOLhyphen"/>dered hair? Are you the men whoſe
+<pb n="27" facs="tcp:172962:16"/>
+moderation and temperance is ſeen un<g ref="char:EOLhyphen"/>to<note place="margin">
+                  <hi>Iſa.</hi> 56. 12</note> all, who live in the exceſs, eating, and drinking, and in pride, and cove<g ref="char:EOLhyphen"/>touſneſs,<note place="margin">
+                  <hi>Rom.</hi> 2. 11</note> and wantonneſs, reſpecting perſons that are rich, and oppreſſing the poor, deſpiſing the needy; and in the middeſt of all theſe your iniquities call your ſelves Chriſtians, and ſay you are juſtified by Chriſt Jeſus, and ſaved by his blood; Will not the Lord be aven<g ref="char:EOLhyphen"/>ged for theſe things? Will not the righ<g ref="char:EOLhyphen"/>teous God do righteouſly? Doth he juſ<g ref="char:EOLhyphen"/>tifie the wicked, or wil he ſave the ungod<g ref="char:EOLunhyphen"/>ly,<note place="margin">
+                  <hi>Pſal.</hi> 7. 11 <hi>Exo.</hi> 34. 6, 7,</note> or acquit the guilty? nay a due recom<g ref="char:EOLhyphen"/>pence wil be rendered unto all the work<g ref="char:EOLhyphen"/>ers of unrighteouſneſs, who are puting the evil day afar off, and are crying, where are the dayes of his coming, things are as they were, let ns eat and drink, for to morrow we muſt dye; but<note place="margin">
+                  <hi>Mark</hi> 9 44</note> the Worm which muſt never dye wil be your torment, for as the tree ſtands it ſhall fall, and after death comes judge<g ref="char:EOLhyphen"/>ment; and in righteouſneſs wil he rain, who ſhall give to every man according to his works done in the body, whether they be good or evil, and in vain wil a talk of ſalvation be in that day, for all
+<pb n="28" facs="tcp:172962:17"/>
+you that are out of the covenant; and I knowing aſſuredly that God is revealed from heaven in flames of fire, to take vengeance on all that knowes him not;<note place="margin">2 <hi>Theſ.</hi> 1. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 18.</note> cannot but warn you while you have time, to ceaſe from all your imaginati<g ref="char:EOLhyphen"/>ons of God, which are vain, and to come to that which is only able to re<g ref="char:EOLhyphen"/>deem from the powers of darkneſs and bonds of Satan, whereby you have been and are captivated; and all having a gift to profit with all, come to know it in your ſelves, for by this muſt all be pre<g ref="char:EOLhyphen"/>ſented before God, who is juſt in all his judgements, and requiers of no man ac<g ref="char:EOLhyphen"/>cording<note place="margin">Rom. 6. 2. 2 Tim. 1. 6</note> to that he hath not, but accor<g ref="char:EOLhyphen"/>ding to that he hath; his own is he come<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pet.</hi> 4. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0</note> for, and though the unprofitable hide it, yet it is good and perfect; O that you knewit. and the power thereof! for this only can redeem your ſouls out of the pit, and break all the bonds of iniquity, and clenſe from ſin, which hath ſepera<g ref="char:EOLhyphen"/>ted<note place="margin">
+                  <hi>Luke<g ref="char:punc">▪</g>
+                  </hi> 2. 48</note> you from God, and this was it which the Prophets witneſſed, to ſet<note place="margin">
+                  <hi>Pſalm.</hi> 4. 1</note> their ſouls at liberty, before they could ſay the Lord is my righteouſneſs; and you that know not this gift, which is
+<pb n="29" facs="tcp:172962:17"/>
+from the father of ſpirits, to be your leader, and guide, and teacher, your beſt works are but ſelf-righteouſneſs,<note place="margin">
+                  <hi>Heb.</hi> 6. 1</note> dead works, and to be repented of, but we who have gained to that which ſhewed us the evil of our wayes, and the vanity of the world, with the glory thereof, have been brought to ceaſe<note place="margin">
+                  <hi>pſalm.</hi> 4. 2</note> from our own works and words, and come to ſtillneſs, in which the ſtill voyce hath been heard of God, who com<g ref="char:EOLhyphen"/>plains of all you that are walking in vanity, turning your makers glory into ſhame by ſpeaking deceit and follow<g ref="char:EOLhyphen"/>ing after lyes, and in this ſtilneſs ſtand<g ref="char:EOLhyphen"/>ing, are we come to poſſeſſe ſure ſalva<g ref="char:EOLhyphen"/>tion by his redemption, that ſaves his people from their ſins, and ſo it is God that works all our works in us, and for us, and ſelf and the boaſter are ſhut our, by the powers of the eternal word of ſeperation, and ſo our joy and boaſting is in God all the day long; but you out<note place="margin">
+                  <hi>Mat 1. 21 Eſa:</hi> 26. 13</note> from the light, diſobedient to that which ſhews your miſdoing, have no<g ref="char:EOLhyphen"/>thing to warn you, or to rejoyce you, or give you peace, but wat is from the fire of your own kindling; <hi>and this you
+<pb n="30" facs="tcp:172962:18"/>
+ſhall have at my hands</hi> ſaith the Lord<note place="margin">
+                  <hi>Eſa.</hi> 50. 11</note> to lye down in ſorrow, and this is the truth to you all, whatever your teach<g ref="char:EOLhyphen"/>ers tell you, who cry vehemently againſt the light, for they know if you harken to the light, their trade will ſoon dovvn, and therefore many lyes in their pul<g ref="char:EOLhyphen"/>pits and elſe where do they publiſh, (to hold up the kingdom of darkneſs) ſaying we deny the Scriptures, and Chriſt which dyed at <hi>Joruſalem,</hi> and the miniſters, with many more falſe accuſations; to which I anſwer for the truths ſake, no other Chriſt do we profeſs, then he that made a good confeſſion before <hi>Pilate,</hi> who when crucified, had over his head a writing ſet of Hebrew, Greek and Lattin, by his crucifiers, as now he hath (receive it if you can) of whom <hi>Enoch Moſes,</hi> and all the reſt of the Prophets pro<g ref="char:EOLhyphen"/>pheſied, and the Apoſtles bare witneſs to, him do we believe in and call all to, who is in us the hope of glory; and the Scriptures of truth we believe, and<note place="margin">
+                  <hi>Deut.</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4 <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5</note> are come to the fulfilling of them, and being witneſſes that the Angel of the everlaſting Goſpel, hath flown through
+<pb n="31" facs="tcp:172962:18"/>
+heaven, after this long night of Apoſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſie;<note place="margin">
+                  <hi>Rev:</hi> 14. 6.</note> we know that the hour of righ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eous judgement is come, in which <hi>Babylon</hi> and all her merchants muſt down, and we cannot but warn them and you, of their ſure de<g ref="char:EOLhyphen"/>ſtruction, for theſe are the miniſters of Antichriſt, and not of Jeſus Chriſt, who ſet up any thing in his ſtead, who is the eternal Son of God, and this was they ſeen to be, by ſome of them called puritans forty years ago, to my own knowledge; and ſome that had been breed at Schools and univerſities with them, and had taken their or<g ref="char:EOLhyphen"/>ders, though they were dark times, have all along according to the light received, witneſſed againſt the evil of theſe times ſervers, ſo much as that they were hated of the world, ſuffered perſecution, ſome to death, others baniſhment for his names ſake, who is<note place="margin">
+                  <hi>Iohn</hi> 1. 6.</note> the light; and the miniſtery ſent of God, did and do bear witneſs to him that is the light; and theſe we honour in the Lord, who by his power have turned many thouſands from dark<g ref="char:EOLhyphen"/>neſs<note place="margin">Act<g ref="char:punc">▪</g> 16 14</note> to light, and from the power of
+<pb n="32" facs="tcp:172962:19"/>
+Satan to God, and we try them by their works, and their fruits are fruits<note place="margin">
+                  <hi>Mat.</hi> 7. 16 <hi>ler.</hi> 23. 28.</note> of unrighteouſneſs, but you cannot gather Figs of Thiſtles, nor Grapes of Thorns; what is the Chaff to the Wheat, ſaith the Lord God, who is gathering his Wheat into the Garner, and the day of Harveſt is at hand, and the tares muſt be burned with un<g ref="char:EOLhyphen"/>quenchable fire; &amp; ſo be awakned, for to that of God in every mans conſcience I am manifeſted, that you are warm<g ref="char:EOLhyphen"/>ed, and called to repentance, and from your dead worſhips and works,<note place="margin">
+                  <hi>Iohn</hi> 4 23.</note> to the living God, who is a quickning ſpirit, and in ſpirit will he be wor<g ref="char:EOLhyphen"/>ſhiped, and his firſt appearance is to deſtroy ſin in the fleſh; and if this you deſpiſe, which convinces of ſin, you offer deſpite unto the ſpirit of grace,<note place="margin">
+                  <hi>Heb.</hi> 10. 29</note> by which all the ſaved of God are ſealed, and have the witneſs in our ſelvs, that he is true; this is the me<g ref="char:EOLhyphen"/>diator of the new Covenant written in the heart, put in the inner parts, which who are come to, need not any<note place="margin">
+                  <hi>Heb.</hi> 8, 6 <hi>ler.</hi> 31. 33.</note> to teach, but are all taught of God, from the leaſt to the greateſt, knowing
+<pb n="33" facs="tcp:172962:19"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he pouring forth of the ſpirit upon <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons and daughters, whereby we pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heſy; and this is a lanthorn to our <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>et, and a light unto our ſteps, and <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eeping to it he manifeſts himſelf un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<note place="margin">1 <hi>Cor 13. 11 Iohn</hi> 4. 4.</note> us, whom we know and feel mani<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſted in fleſh, to deſtroy the works of the Devil, and as that which is perfect comes, that which is unper<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect is put away, for he that dwells in us is greater then he that rules in the world, though it be denyed by <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll thoſe your teachers, which preach a<g ref="char:EOLhyphen"/>gainſt perfection, to the weakning of the faith, by which all the holy men of God were pefected, and by which the world and death, and he that hath the power of death, (the Devil) are o<g ref="char:EOLhyphen"/>vercome; and this is our victory: O that you felt it! it is under the bleſ<g ref="char:EOLhyphen"/>sing of eternal life, and without you know this to ariſe which can remove the mountains, what have you to do with promiſes? for the promiſes are to the ſeed for ever and ever, not un<g ref="char:EOLhyphen"/>to<note place="margin">
+                  <hi>Rom</hi> 4 16</note> ſeeds, as unto many, but unto on Chriſt Jeſus, this ſeed bruiſes the Serpents head, and keeps him under,
+<pb n="34" facs="tcp:172962:20"/>
+who rules in all you that live in <hi>Sion,</hi> and plead for it, but we that believe know the caſting out of Devils, and the treading of the Serpent under foot, and we ſpeake with new tongues,<note place="margin">
+                  <hi>Mark:</hi> 6. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7</note> and the world cannot bear it, and the ear is bored that hears the ſhe pheards voyce, and they can no more heare <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtranger, and ſo the Scripture (which you ſay is your Rule) doth teſtifie a<g ref="char:EOLhyphen"/>gainſt you, &amp; ſecrets are made known to us that fear him, &amp; more and more ſhall they be covered with darkneſs that ſtriye againſt the light, which now pricks many of you; and it is hard for you to kick againſt it, and though you have or may for a time get above it, yet (if not afore) at your death-beds ſome of you ſhall confeſs, that that ſpeaking trouble, none can ſpeak peace, and that condemning, none can juſti<g ref="char:EOLhyphen"/>fie; for he that is a God pardoning ſin, iniquity, and tranſgreſſion, will in no wiſe acquit the guilty; are not you guilty whoſe hearts condemn you and there is no remiſſion but by blood? blood is liſe, and the life of<note place="margin">1 <hi>Iohn</hi> 3. 20 <hi>Heb</hi> 9 22</note> Jeſus is the light of men, but all that
+<pb n="35" facs="tcp:172962:20"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elieve not in the light, are condem<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed already, as ſaith the ſcripture,<note place="margin">
+                  <hi>M<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>k</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6</note> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd know not the blood that clenſes, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o more then they that peirced Jeſus <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at <hi>Juruſalem,</hi> and ſaw the blood <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd water run out, yet had neither <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enſing nor ſalvation by it; then, but<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohn</hi> 1. 7.</note> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll who are in the light, as we are in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he light, have fellowſhip one with a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>other, and the blood of Jeſus clenſes <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s from all ſins, whereby we have bold<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs in the day of Judgement, know<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g as he was, we are in this preſent<note place="margin">1 <hi>Iohn</hi> 4. 17</note> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orld, hated, mocked, and deſpite<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lly uſed of you, for whoſe ſoules <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke we have and can deny all that is dear unto us, not loving our lives un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the death, that while it is day you <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight hear his voice, vvho ſvvears in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is vvrath the unbeleiver ſhall never <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nter into his reſt, and vvithout you <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>novv and feel that vvhich is pure <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd perfect, and eternal to beleive in,<note place="margin">
+                  <hi>Heb.</hi> 3. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our faith is in an Idol, and your offerings will not he offer, who lives for ever, to make interceſſion for all that come to God by him, vvho is a<note place="margin">
+                  <hi>pſal.</hi> 16. 4</note> prieſt for ever made by the Law of
+<pb n="36" facs="tcp:172962:21"/>
+an endleſs life, and if ever you come to know the true God, you muſt know him in you, who is over all, in you all, and through you all, without reſpect<note place="margin">
+                  <hi>Heb 7 25. Eph<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 4. 6. Acts</hi> 17. 28</note> of perſons, in him we live, and move, and have our being, who made all men of one blood; and this is Goſpel<g ref="char:EOLhyphen"/>news, glad tydings to the poor and hungry, the ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck and loſt, who may come freely, high and low, rich and poor, to him without money, or with<g ref="char:EOLhyphen"/>out<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſa: 55. 1 Eſa,</hi> 1. 27.</note> price; who condemns all unrighte<g ref="char:EOLhyphen"/>ouſneſs, judges all iniquity, and redeems ſin by Judgement, and deſtroys the tranſgreſſor and ſaves the righte<g ref="char:EOLhyphen"/>ous ſoul which can only inherit the Kingdom, which is unfaiding and un<g ref="char:EOLhyphen"/>defiled, feel him in you, into whoſe hands all judgement is committed; for knovv you not, that if Chriſt be no in you ye are reprobate? &amp; the Apoſtl travelled again in birth of thoſe tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note place="margin">Iohn 5. 22 2 Cor. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. 5 Gal. 4 19 Iohn 4. 29</note> had been converted, till Chriſt wer<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> formed in them; and ſo ceaſe from th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> meanings of men, and come to know the Prophet vvhich can tell you all th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> evil that ever you have done; is no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this the Chriſt? truly the day is fa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="37" facs="tcp:172962:21"/>
+ſpent and the night comes, in vvhich none ſhall vvork, therefore prize your<note place="margin">Hab. 1.13 <hi>Hoſ.</hi> 13. 9</note> time and repent, for in ſin vvill not God ſave any, who is of purer eyes then to behold iniquity, and the Lord is clear, and if thou periſh O man, thy evil is of thy ſelf, vvho art vvarned to forſake the evil, and to obey that (vvhich con<g ref="char:EOLhyphen"/>dems the evil) vvhich is good and per<g ref="char:EOLhyphen"/>fect, and giveth peace to the upright; in vvhich I have and ſhall rejoyce, though the Seas roar, and the moun<g ref="char:EOLhyphen"/>tains be removed out of their place, for truth is ſtronger then all, and ſhall over<g ref="char:EOLhyphen"/>come, and in it have I an abiding place vvhen the ſtorm hath been great, but where will you hide, (that ſit in the ſeat<note place="margin">
+                  <hi>Pſal.</hi> 1: 1</note> of the ſcorners, and ſtand in the vvay of ſinners) vvhen the black and gloomy day ſhal come upon you, and the ele<g ref="char:EOLhyphen"/>ments ſhal melt, and the vvorld ſhall paſs avvay vvith a great noiſe? your<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ocl 2:2: 2Pet:3:10 Eſa</hi> 2: 02</note> riches &amp; your honour will ſtand you in no ſtead, vvhen you ſhal fling your I<g ref="char:EOLhyphen"/>dols of Gold and of ſilver to the Batts, and to the Moles, for he ſhal judge in<note place="margin">
+                  <hi>Acts</hi> 13; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4</note> righteouſneſs vvho is no reſpecter of perſons by whom all actions are weigh<g ref="char:EOLhyphen"/>ed
+<pb n="38" facs="tcp:172962:22"/>
+who throwes Princes from their<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 42. 6.</note> Thrones and raiſeth beggars, and this is he who is given for a light to the Gentiles, and a covenant to the people; O that you knew him and would truſt in him! who all the day long ſtretch<g ref="char:EOLhyphen"/>eth<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſa.</hi> 65. 2</note> forth his hand to a ſtiff-necked and rebellious people; but the night cometh in which none can work, then all that reſiſt the light ſhall be caſt into outer darkneſs, where there is weeping and wailing and gnaſhing of teeth for evermore: Therefore that all that thirſt after everlaſting righte<g ref="char:EOLhyphen"/>ouſneſs might be gathered into the light, do I call and write unto you theſe things in plainneſs.<note place="margin">
+                  <hi>M<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 8. 12</note>
+            </p>
+            <p>And now you who denie the light of Chriſt, the living Word, &amp; have ſet the dead Letter in his ſtead, how doth death prevail in you? And how hath darkneſs beſet you, that even while you are preaching and profeſſing the Scripture, you are fulfilling them a<g ref="char:EOLhyphen"/>gainſt your ſeives? Did not the light of the World foretel his ſervants what they muſt receive from the Worlds profeſſors for doing his Work, ſaying,
+<pb n="49" facs="tcp:172962:22"/>
+               <hi>I ſend you forth as ſheepe in the midſt of</hi>
+               <note place="margin">Matth. 10 Mark. 13 Iohn 16.</note> 
+               <hi>wolves, and they ſhall ſtone you in their Sy<g ref="char:EOLhyphen"/>nagogues; they ſhall put you nut of their Synagogues, and in the Synagogues yo ſhall be beaten; and they ſhall deliuer you upto Counſels, and ye ſhall be brought be<g ref="char:EOLhyphen"/>fore Rulers for my ſake, for a teſtimony a<g ref="char:EOLhyphen"/>gainſt them; yea the time cometh, that whoſoever killeth you, will think he doth God ſervice; and theſe things will they do unto you, becauſe they know not the Father nor me.</hi>
+            </p>
+            <p>And this they did unto ſuch as he ſent into their places of Worſhip to cry againſt their Worſhip, who prea<g ref="char:EOLhyphen"/>ched the Scripture, and thought there<g ref="char:EOLhyphen"/>in to have eternal life, as you do, whileſt they thus entreated them in whom the Word of eternal life was, who gave forth the Scriptures.</p>
+            <p>And thus death works in them who ſet the Letter for the Life, and denies the Light of Life in themſelves, and ſuch would devour it in others.</p>
+            <p>And that his words may be fulfil<g ref="char:EOLhyphen"/>led, he ſends forth his ſheep in his ſpi<g ref="char:EOLhyphen"/>rit and power to ſuffer theſe things; and the Wolves that have the out<g ref="char:EOLhyphen"/>ward
+<pb n="40" facs="tcp:172962:23"/>
+words, the ſheeps clothing, they tear, hale, &amp; beat the ſheep, as he hath ſaid they ſhould, for a witneſs againſt them. So ſearch the Scriptures, and compare your works and their works; they denied the light; ſo do you. They thought to have eternal life in the Scriptures; ſo do you. They fulfilled them upon the ſheep in their Syna<g ref="char:EOLhyphen"/>gogues, even while they were preach<g ref="char:EOLhyphen"/>ing in them. And how many of your ſynagogues is there in this Nation, where ſome of his ſheep have not ſuf<g ref="char:EOLhyphen"/>fered the ſelf-ſame things from this generation? They haled before Ru<g ref="char:EOLhyphen"/>lers; and how many Rulers is there in this Nation, before whom ſome or other have not born this teſtimony for a witneſs? <hi>And when they had done all this to them, then their time came to kill them, and think that whoſoever did it, did God ſervice:</hi> And your time is at the door, and you are haſting apace towards it; and ſome have already finiſhed their te<g ref="char:EOLhyphen"/>ſtimony herein, and are at reſt where you cannot come.</p>
+            <p>And thus with the light which youdeny, are you comprehended, weighed, meaſu<g ref="char:EOLhyphen"/>red
+<pb n="41" facs="tcp:172962:23"/>
+&amp; marked to be no ſheep, but Wolves in ſheeps clothing, and by your fruits you are known; and the true Shepherd (who is not an hireling hath ſent forth his ſheep amongſt you, who meets with no fruits amongſt you, but briars and thorns, and who returns from you bea<g ref="char:EOLhyphen"/>ten, puſh't and haled, kick't and caſt down in your Synagogues, and dirted in your ſtreets; and thus we return to him that receives the oppreſſed, in whoſe Name we are ſent, and the beſt we can ſay for the beſt of you, is, <hi>Fa<g ref="char:EOLhyphen"/>ther forgive them, they know not what they do,</hi> not knowing the Father nor the Son. And herein you are found, (as he ſends to prove you, and to receive your fruits) all profeſſions, forms, notions, &amp; gathe<g ref="char:EOLhyphen"/>rings; and herewith are you numbred, the beſt as a briar, and the moſt upright as a thorn-hedge; Teachers and People in the tearing, devouring nature, all from the Vine, and as clearly to be ſeen by your works, in which you are found to be out of the nature of them whoſe words you profeſs, as a dog may be known from a lamb, or a thorn from a vine.</p>
+            <p>
+               <pb n="42" facs="tcp:172962:24"/>So read the Scriptures, the Lambs ſufferings and the Wolves actings, and read your ſelves by your fruits, amongſt whom you are found, and call not your ſelves Chriſtians, for Chriſt owns no ſuch workers, for that of Chriſt ſuffers in you, and by you; and though you ſay God is your Father, as they did, yet you do the works of the Murtherer; and though you ſay Chriſt is your Saviour, yet the deſtroyer is head in you; and though you ſay the Scriptures is your rule, yet they condemn your lives, and caſt you out amongſt ſuch who perſecu<g ref="char:EOLhyphen"/>ted them who gave forth the Scriptures; and while you ſtand in that nature, you have no part in the Scriptures to inhe<g ref="char:EOLhyphen"/>rit, but the plagues and woes therein foretold for ſuch workers: And the Scri<g ref="char:EOLhyphen"/>ptures needs no meanings to prove you there, but are fulfilled in you in the be<g ref="char:EOLhyphen"/>half of him whoſe work you are doing; but when you would take them to prove your Teachers or your ſelves to be of God, then you muſt do it with mean<g ref="char:EOLhyphen"/>ings, twinings, and wreſtlings; for in plainneſs and truth, as the Scriptures were given forth, they ſhut you out.
+<pb n="43" facs="tcp:172962:24"/>
+And when your Teachers and your ſelves, with all their learning and craſt, have taken the Saints words, and put them upon your ſelves that you might be taken for ſheep; a ſheep indeed is ſent forth amongſt you, and all your covers are too narrow to hide the Wolf that is within; and how little a thing of Gods chooſing quickly confounds ſo great a building and profeſsion, and lays naked that which many years you have been hiding; and thus when the weakneſs and fooliſhneſs which is of God, comes amongſt you, it lays waſte your great wiſdom, great profeſsions, great notions, long prayers, ſeparati<g ref="char:EOLhyphen"/>ons, and gathering, and Names of Mi<g ref="char:EOLhyphen"/>niſters of Chriſt, and people of God, Church of God, and Houſe of Prayer, and all is ſhaken and gone, and nought of all this left but a heap of confuſion, tearing, haling, beating, pulling, ſtone<g ref="char:EOLhyphen"/>ing, laughing, and evil-ſpeaking, not the leaſt face of a Church of Chriſt left, nor one jot of all your ſheeps clo<g ref="char:EOLhyphen"/>thing to be ſeen; and the poor Inſtru<g ref="char:EOLhyphen"/>ment by which this is done, you count but a fool, or mad, or one not worth
+<pb n="44" facs="tcp:172962:25"/>
+hearing ſpeak, or worthy an Anſwer, that the Scripture may be fulfilled, which ſaith, God hath choſen fooliſh things, weak things, baſe things of the<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cor:</hi> 1</note> World, and things that are deſpiſed, to confound the wiſe and mighty, and bring all to nought that is not in him<g ref="char:EOLhyphen"/>ſelf; and this day is coming upon you unawares, who are profeſsing the Scri<g ref="char:EOLhyphen"/>ptures with your Candle out, and ſo not having the light of Faith in you to guide you, it is riſen againſt you in the weak, to lay open your nakedneſs, blindneſs, and hardneſs of heart, before your ſelves and all men<g ref="char:punc">▪</g>
+            </p>
+            <p>So thou that would be counted a ſhe<g ref="char:EOLhyphen"/>pherd and a guide, behold thy Flock, and the fruits of thy Miniſtry; When I was to come amongſt you in obedience to the Lord Jeſus Chriſt, and in the po<g ref="char:EOLhyphen"/>wer of his ſpirit to prove you, did you carry your ſelves as ſheep towards me? Let moderation judge you, and be aſha<g ref="char:EOLhyphen"/>med. What a heap of confuſion was you all turned into on a ſudden, when the fooliſhneſs of God appeared a<g ref="char:EOLhyphen"/>mongſt you in weakneſs and contempt! And did thou carry thy ſelf as a true
+<pb n="45" facs="tcp:172962:25"/>
+Shepherd, to flye and leave thy flock in ſuch a tumult upon a poor deſpiſed wo<g ref="char:EOLhyphen"/>man, and neither to ſtay and anſwer one queſtion, nor to rebuke the devou<g ref="char:EOLhyphen"/>rer which was head in thy flock? So that if the Lord had not ſtrengthened and preſerved this weak body, it might have been cruſht with violence, puſh<g ref="char:EOLhyphen"/>ing and haling to and fro; for as one in the waves of a raging ſea, ſo was I a<g ref="char:EOLhyphen"/>mongſt thy flock. Oh ſhepherd, be a<g ref="char:EOLhyphen"/>ſhamed of thy flock, and they of thee, from that day forward till you repent. Vine-dreſſer, be aſhamed of thy Work, how is thy Vineyard over-run with bryars and thorns, that the meek can<g ref="char:EOLhyphen"/>not paſs unleſs he be fenced with Iron and Steel? Oh husbandman! What doſt thou ſow amongſt them where this is reaped? And people, be aſhamed of your ſhepherd, and of his hire, and of your defence, and let the Words of Chriſt judge what he is that flyes and leaves his flock, and hath not the Wea<g ref="char:EOLhyphen"/>pon of truth in the ſpirit of meekneſs, to defend himſelf and his flock with; let your fruits judge you in the light of Chriſt Jeſus, what he hath ſown, and in
+<pb n="46" facs="tcp:172962:26"/>
+what ground it hath ſprung up; now it is laid open to your faces, and the na<g ref="char:EOLhyphen"/>ture of ſheep is not in your fold, vio<g ref="char:EOLhyphen"/>lence hath filled your Houſe of Prayer; the abomination that makes deſolate, is got up therein, and ſtands where it ought not; pride is exalted, and the wicked worker is ſet up, and the blind is got into the ſeat of judgement, and leads the blind, who calls light darkneſs, and darkneſs light; and the ear that ſhould hear the true ſhepherd, you have ſtop<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; and the eye of a ſpiritual mind is blinded by denying the light within, and you have loſt the defence of truth; and ſo there is no way to make you underſtand what you are, but by laying you open by your fruits before the ſun, in whoſe light your fruits are condemned, &amp; you ſeen to be none of his flock, nor he your defence, but enemies to it, and his appearance in the weakeſt thereof, whom he chooſeth for ſuch a work, Glory to the Lamb: And let all that learn his nature, praiſe his Power and Wiſdow ſor evermore; for he hath fitted the meek of the Earth for his de<g ref="char:EOLhyphen"/>fence, but the horſe and his rider he hath caſt into the ſea.</p>
+            <p>
+               <pb n="47" facs="tcp:172962:26"/>And ſo people, had there been in you reaſonableneſs or moderation, or any deſire to have known the truth in its power, when I did but ask a moderate queſtion of your Teacher, you would have been ſtil and ſober, &amp; moved him to anſwer, and in meekneſs of ſpirit you to have heard both parties, that ſo you might have judged with that of God in you, (which wil ariſe to the truth where it is) who had truth on his ſide; and if your Teacher had had it in him, is it not ſtonger then all to defend him and you therewith, which is Chriſts weapon againſt all errors whatſoever; and then if he had had the Staff of the true She<g ref="char:EOLhyphen"/>pherd, to have ſtood over you, and de<g ref="char:EOLhyphen"/>fended you, then had he ſhewed himſelf like a ſhepherd, and you like ſheep, and not he to betake himſelf to flye for his defence, and you to carnal Weapons, and with the fiſt of wickedneſs liſt up, run all a heaps in rage and confuſion, to defend your Teacher and his Do<g ref="char:EOLhyphen"/>ctrine by uncivil demeanor, not becom<g ref="char:EOLhyphen"/>ing men and women of government, wherein you have but made it appear openly to be Truth that you withſtood,
+<pb n="48" facs="tcp:172962:27"/>
+by what way you took againſt, is as truth hath foretold in Scripture concer<g ref="char:EOLhyphen"/>ning the Worlds Teachers and Profeſ<g ref="char:EOLhyphen"/>ſors, and what uſage Chriſts ſheep ſhould have in the midſt of Wolves; and upon you this day is this Scripture fulfilled for a witneſs againſt Teacher and People, and out of it you are caſt, and out of the Kingdom and patience of Chriſt Jeſus you have proved your ſelves, though you ſay you are the chil<g ref="char:EOLhyphen"/>dren of the kingdom; and no church of Chriſt, but in the world you are, which lyes in wickedneſs, and enmity a<g ref="char:EOLhyphen"/>gainſt the life of Chriſt Jeſus; and in the very ſame works which he ſaid you would do, teacher and people are found, and are not built on that foundation that bears and tries all things, which cannot be ſhaken, but as the troubled Sea roring and ſwellings, caſting mire and dirt, as the Scriptures ſaith of the wicked world, which ſome out their own ſhame, and ſhews what you have<note place="margin">
+                  <hi>Eſa. 57 20 <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ude</hi> 13</note> been long treaſuring in your evil hearts; and ſo out of the abundance that is<note place="margin">Ma<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> 12 34</note> therein, you have powered out upon the ſervant of the Lord, juſt as your
+<pb n="49" facs="tcp:172962:27"/>
+fore-goers have done, and as he fore<g ref="char:EOLhyphen"/>told, who is this day a ſwift witneſs a<g ref="char:EOLhyphen"/>gainſt you, who have ſet your ſelves againſt him, and the day hath declared it, that you have no part in the ſuffer<g ref="char:EOLhyphen"/>ings of Chriſt Jeſus, but your part is proved to be with them who hath ſhed his blood, ſince <hi>Abel</hi> to this day: <hi>The world by wiſdom knowes not God,</hi> ſaith the Scriptures, which is now fulfilled in this generation, where are high noti<g ref="char:EOLhyphen"/>ons, ſwelling words, great profesſions, and zealous formes, all in the world without God in them, boaſting them<g ref="char:EOLhyphen"/>ſelves in a lye, who profeſs redempti<g ref="char:EOLhyphen"/>on in words, but in works are in the world, and in the darkneſs thereof, blindneſs of mind, hardneſs of heart, and earthly captivity, without life and power in you, to give you victory o<g ref="char:EOLhyphen"/>ver the prince of luſt, the God of this world over your own ſpirits, which luſts to pride, luſts to envie, luſts to ſtriſe and covetouſneſs and oppresſion, and all that unreaſouable nature which de<g ref="char:EOLhyphen"/>vours the creation, and keeps it in bon<g ref="char:EOLhyphen"/>dage under the power of Satan, and un<g ref="char:EOLhyphen"/>der
+<pb n="50" facs="tcp:172962:28"/>
+wrath and the curſe, which daily groans to be delivered into its former glory, into it's firſt being in God and his ſons, which is right redemption without a lye, where all things are of God, and in the truth ſet free from the devourer, which rules in worldy men and women, where all things are not become new, and where all things are not of God, yet profesſing redempti<g ref="char:EOLhyphen"/>on, with pride, luſt, and covetouſneſs, and all vanity in your Veſſells, not knowing him who is the greater, to be in you to condem theſe evils, then he that is in you to entice you to all theſe things, and blind you in them; and here you are ſeen with the pure truth that is in God, to be out of God in the world, and in the lye, not doing in the truth nor redeemed thereto, but the witneſs of truth lyes ſlain, denyed and buried in you; and where he raigns not in the light, there you are in the darkneſs of this world, blind in your hearts, and there the falſe Prophet is up in the ſeat of Judgement, teaching lyes and falſe-hood, to make you more
+<pb n="51" facs="tcp:172962:28"/>
+blind ſtill, and to harden you therein, to ſeek to blind others alſo and to turn truth backward, that he may grind the poor and needy to ſatisfie his luſt in you; and to that end you are fitted for the deſtroyer, and ſo comes the truth to reprove your pride and devouring va<g ref="char:EOLhyphen"/>nities which waſts the creation, and turns it quite to another end then God gave it you for; and when you ſay what might ſo many poor people live on, if we did not wear theſe things? as though your pride which is the ground of all op<g ref="char:EOLhyphen"/>presſion, did releive the oppreſſed; and thus you turn truth backwards, with ſhameleſs and unreaſonable words, not having a ſhew of a truth; and then if truth ariſe &amp; ſtop your mouth in the o<g ref="char:EOLhyphen"/>pen falſhood; then you have more hidden deceit to cover your luſt: And you ſay pride is not in the out-ſide, it's in the heart, when all men may ſee it in the out ſide; and as many as have that eye open in the heart (which you hav blind<g ref="char:EOLhyphen"/>ed with luſt) ſees and knowes that your pride had its firſt riſe and rooting in your heart, ere it came to ſpring forth
+<pb n="52" facs="tcp:172962:29"/>
+it's curſed branches which now ſhines in the open ſtreets without ſhame; &amp; that this which ſpeaks outward is but part of that fullneſs that is within in the heart, though your blindneſs be ſo great you ſee it not, neither within nor without, and your hearts too hard to feel it; but have ſet up there the Idol and ſtumbling block to blind withall; and then you ſay, what was theſe things made for, if we may not wear them, where the truth of God in you would anſwer, (were it not denyed and betrayed by your evil eye) that they was not made for the devoured, nor to be ſpent on your Juſts, to the luſt of the eye and pride of life, but for the ſervice of the needy; and co cover the naked, that there might be plenty in the creation, and none might want, which would be ſo, were the devoured judged in you &amp; caſt out, and did you know him in you to order the creation which made it, who would lead you that are rich another way to releive the poor, then
+<pb n="53" facs="tcp:172962:29"/>
+with being proud and vain and waſt<g ref="char:EOLhyphen"/>full of his freeneſs and fullneſs; and that ſpirit would let you ſee, that were it not for that devourer which in you ſpeaks and acts, there would be no poor, for he gives plenty for all that he ſends into the world, and the luſt ariſing in the heart of men and wo<g ref="char:EOLhyphen"/>men, is it that makes poor and accur<g ref="char:EOLhyphen"/>ſed, and keeps poor by oppreſſion in you, thoſe that are under the power thereof; and ceaſe but your oppreſſi<g ref="char:EOLhyphen"/>on of them to ſatisfie your pride, and judge the deſtroyer in you that waſts it; and the poor would ariſe through the fullneſs of him that filleth all things, which is kept back by the de<g ref="char:EOLhyphen"/>vourer and the curſe that is upon him, in the creation through you in pride, gluttony, and drunkenneſs, who have all one head againſt truth; and ſo the glutton ſaith, <hi>What are the creatures made or, but for man to eat? &amp;c.</hi> and the Drunkard being reproved, hath the ſame pretence of mercy to the pore, as the proud, ſaith he, <hi>How ma<g ref="char:EOLhyphen"/>ny poor people lives of Brewing, and might begg, did not ſuch as rich drink it as
+<pb n="54" facs="tcp:172962:30"/>
+they brew it; &amp;c.</hi> And thus deceit ut<g ref="char:EOLhyphen"/>ters it's voice in all the world where it is head (who are without the true God in them) as though is was the work of the devourer, that did uphold the creation in plenty, and keep the poor from want; and how great is the darkneſs of this generation, in whom this paſſeth for truth? Is not this the world which by wiſdom knowes not God, but are given up to vile affections and to believe lyes.</p>
+            <p>Oh men how deep is truth fallen in you that nothing of it doth ariſe to condemn this doctrine &amp; him that lives by it in you; what deceit is this that hath filled your hearts, to make you believe you take care for the wants of others, by waſting that which ſhould releive them, ſpending as much one of you upon your luſt and vanity as would feed two plentifully (if not ten.) And this is all the care of proud men and women, and gluttonous men and women, and drunken men and women, to ſerve your ſelves, and feed the devourer in you, with the mercies of God which he gives freely, that all
+<pb n="55" facs="tcp:172962:30"/>
+might be feed, and praiſe him therein: And then you ſay you ſpend but your own, and it's for you that are rich to live thereafter, &amp;c. But then what do you to profeſs the knowledge of God, or name of Chriſt, or redemption that is in him: If you live as the heathen &amp; Gentiles do, then bear their name, and pollute not the name of Chriſt, and live as do the Gentiles, not knowing Chriſt in you, to reſtore all things in you to God, that you may ſee them to be his, and not your own; know him in you to order them who made them, which all the redeemed of Chriſt Jeſus doth, in whom the reſtauration is wrought by Jeſus Chriſt, and all things of God as in the beginning, be<g ref="char:EOLhyphen"/>fore the prince of pride, the glutton, the whoremonger, the drunkard, or the falſe Prophet that teacheth lyes entred into man, or was exalted in the ſeat of truth, to deceive and be<g ref="char:EOLhyphen"/>witch people, by calling evil good, and good evil, as in you he doth, who they preach &amp; practiſe and pro<g ref="char:EOLhyphen"/>feſs to devour, which Chriſt comes to reſtore, and your life to condem, and
+<pb n="56" facs="tcp:172962:31"/>
+to deliver the creation from the waſ<g ref="char:EOLhyphen"/>ter, and deſtruction, and to redeem it to the guiding of God the ſervice of God in his will, and not the will of men, nor the blind boaſter; who ſaith, <hi>I ſpend but my own;</hi> And who is exal<g ref="char:EOLhyphen"/>ted in Pride and exceſs becauſe of a<g ref="char:EOLhyphen"/>bundance, who knows not redempti<g ref="char:EOLhyphen"/>on, to him that giveth all things, but are out of the fear, far from reſtau<g ref="char:EOLhyphen"/>ration, for were you redeemed to God your ſelves, you would alſo know that all you have was reſtored to God in your redemption, out of the power of the deſtroyer, and into the diſpoſing of that ſpirit which works the re<g ref="char:EOLhyphen"/>pemption, for the redeemed indeed are no more their own; much more is not that they have received.</p>
+            <p>Wherefore men be ſober minded, and take heed what you plead for, and boaſt not in your wickedneſs, &amp; then double your iniquity by profeſſing the pure name of God, &amp; the nature of redemption, &amp; lye not againſt the truth of Chriſt, Jeſues <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſaying our re<g ref="char:EOLhyphen"/>deemer our redeemer, further then yo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> konwhis ſpirit &amp; power living in you
+<pb n="57" facs="tcp:172962:31"/>
+t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nlighten and quicken you againſt <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe evils, (by which his holy ſpirit <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the creation ſuffers) and power in <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> over them, and the Prince there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> that you may ſerve his ſpirit in you, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a new life, not ſerving divers luſts, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſerving your bellyes, but in fear <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſober meekneſs of ſpirit, ſerving <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord in your ſouls, and bodyes, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d eſtates, and this only is redempti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> without a lye, or without hypocri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. And this is the confeſſion of Chriſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome in the fleſh, in life and power, to <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ucifie the fleſh, the affections and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thereof, which wars againſt your <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouls, and againſt Chriſt, ſo long as <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou live therein; and in works you de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Chriſt to be come in the fleſh, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough in vvords you confeſs him; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herefore let that mouth be ſilent that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaches lyes, and let truth ſpeak in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou all; and ceaſe to ſay pride is not <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n your hearts, when it hath taken <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oot there, and is grown as a cover<g ref="char:EOLhyphen"/>ing, and hath over-ſpred you in the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight of all men; and ſay not you do it to releive the poor, for ſhame bluſh at ſuch deceit; and let not the drunkard
+<pb n="58" facs="tcp:172962:32"/>
+ſay the ſame with you, for you are ſeen to be the devourer and deſtroy<g ref="char:EOLhyphen"/>er of the creation; nor let the glut<g ref="char:EOLhyphen"/>ton ſay the creatures are made for him, for the day is at hand that he muſt vomit them up, and then he will know that they were not made for him, when truth comes to judge in you all, and to devide aright be<g ref="char:EOLhyphen"/>tween the oppreſſed and the op<g ref="char:EOLhyphen"/>preſſor, this will be confeſſed; nor let the covetous perſon ſay, his Ido<g ref="char:EOLhyphen"/>latry is but providing for them of his houſhould, nor the ſwearer ſay it's but to confirm the truth, which is found out of the truth, which ſaith ſwear not at all; nor the wanton per<g ref="char:EOLhyphen"/>ſon ſay, there is a time to be merry, whoſe times are not in the Lord Je<g ref="char:EOLhyphen"/>ſus, nor ever knew the man of ſor<g ref="char:EOLhyphen"/>rows, nor him that in ſecret mourns for that abomination which wan<g ref="char:EOLhyphen"/>tons lives in, whoſe time of mourn<g ref="char:EOLhyphen"/>ing is to come, which you that now laugh <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ould remember, for truth muſt come to ſit as Judge upon all your pretences, &amp; then theſe things will not cover you, nor lyes be a ſafe refuge for you.</p>
+            <p>
+               <pb n="59" facs="tcp:172962:32"/>Wherefore wait to know the truth of Chriſt Jeſus the light of the world, in your own hearts, to give you the good underſtanding which wil let you ſee that this is from the root of wick<g ref="char:EOLhyphen"/>edneſs in your hearts that theſe things <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſe; and that piety, and pitty, &amp; mer<g ref="char:EOLhyphen"/>cy, is but a pretence to cover the de<g ref="char:EOLhyphen"/>ſtroyer in you, while he gets his work wrought of his ſervants, leſt he ſhould be ſeen in your ſelves, or by others, and that you are but wiſe to do evil, and plead for it, whereby you do but ſhut your ſelves out from the power of truth, and feed upon lyes, and put on falſe covers, which God vvill rend in judgement, and your wiſdom of words cannot cover your works from the light, which ſees the covetous, proud, envious, gluttons, drunkards, and all lyars and vain perſons, and curſed ſpeakers to be without God, not know<g ref="char:EOLhyphen"/>ing in you the povver of an holy life, nor him that is made redemption and ſanctification, though in vvords you profeſs Father, Son, and Holy Ghoſt; do you knovv God in you, of vvhoſe off-ſpring all theſe good creatures are,
+<pb n="60" facs="tcp:172962:33"/>
+vvhich you waſt, and by vvhoſe vertue they are made to ſpring in their kind, and vvhoſe life ſuffers vvhere they are ſpent on the luſt? Do you know the Redeemer in you, vvhoſe vvork is to reſtore all things to God in you, who ſay you ſpend but your own, when you are reproved? Or do you know him in you to live to, who ſayes you muſt live after your riches? Are you richer then he that had all full<g ref="char:EOLhyphen"/>neſs in himſelf, and yet ſaid let no<g ref="char:EOLhyphen"/>thing be loſt? this would you ſay alſo, did you know that life in you that gives it forth, which your luſt devours, who is preſſed therewith as a Cart with ſheaves, who is broken with your whoriſh hearts, and made to ſerve with your ſins, whom you know not, though he be not far from every one of you, yet his knowledge you have loft, and your hearts are too hard to hear his voice, and your wiſdom is too high to bow to his government in you; but being got above the meek, you have loſt the way, which gives light to the blind and grace to the lowly, and that which ſhould meaſure and ſearch
+<pb n="61" facs="tcp:172962:33"/>
+your hearts is out of your ſight, who are ſeeking without for that you have buried within, under your pride and fullneſs lyes the pearl ſhut up in the earth, and the key of knowledge you have loſt in your wiſdom; by your wanton living on the earth, the holy one and the juſt you have ſlain; the man of God is fallen into your ſtreets, the man of mercy and pitie is periſhed by the proud, and there is no Judgement nor deliverance in you, for the ear is ſtopt that ſhould hear the cry; And where this is ſo within, what know<g ref="char:EOLhyphen"/>ledge of God is there? but man is become like the beaſt that periſh<g ref="char:EOLhyphen"/>eth.</p>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
